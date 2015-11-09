@@ -1,4 +1,4 @@
-# GitHub Teacher
+# Geudrik
 
 - **Name:** Pat Litke
 - **Occupation:** Security Researcher
