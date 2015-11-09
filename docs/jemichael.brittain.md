@@ -2,4 +2,4 @@
 
 - **Name:** Michael Brittain
 - **Occupation:** Food junkie
-- **Location** London
+- **Location** London, UK
