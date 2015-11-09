@@ -1,5 +1,5 @@
 # GitHub Student
 
-* **Name**: Nair, Ranjit
+* **Name**: Ranjit Nair
 * **Occupation**: Manager, Solutions Development
 * **Location**: Englewood Cliffs, NJ
