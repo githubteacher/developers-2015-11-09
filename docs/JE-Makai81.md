@@ -4,3 +4,4 @@
 - **Occupation:** GitHub newbie
 - ~~**Location:** London~~
 - **Location:** London, UK
+- **Favourite vacation Destination:** South of France
