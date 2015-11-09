@@ -2,4 +2,4 @@
 
 - **Name:** Lauren Galliford
 - **Occupation:** Ninja
-- **Location:** USA
+- **Location:** Englewood, New Jersey, USA
