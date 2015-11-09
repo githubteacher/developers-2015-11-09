@@ -1,5 +1,5 @@
 # crokej - GitHub Student
 
 - **Name:** John Croke
-- **Occupation:** IT
+- **Occupation:** Infrastructure IT
 - **Location:** London
